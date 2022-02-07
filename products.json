@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Snopcart Logo Sticker",
+    "id": "sticker_logo",
+    "description": "Show off your Snipcart support with a logo sticker!",
+    "price": "2,00",
+    "image": "/images/sticker-single.jpg"
+  },
+  {
+    "title": "Snopcart Logo Sticker Pack",
+    "id": "sticker_logo_pack",
+    "description": "Get a pack of 3 Snipcart loogo stickers.",
+    "price": "4,00",
+    "image": "/images/sticker-3pack.jpg"
+  },
+  {
+    "title": "Snopcart Logo Sticker Pack",
+    "id": "sticker_logo_pdack",
+    "description": "Get a pack of 3 Snipcart loogo stickers.",
+    "price": "4,00",
+    "image": "/images/sticker-3pack.jpg"
+  },
+  {
+    "title": "Snopcart Logo Sticker Pack",
+    "id": "sticker_logo_pacfdk",
+    "description": "Get a pack of 3 Snipcart loogo stickers.",
+    "price": "4,00",
+    "image": "/images/sticker-3pack.jpg"
+  },
+  {
+    "title": "Snopcart Logo Sticker Pack",
+    "id": "sticker_logo_pasdfck",
+    "description": "Get a pack of 3 Snipcart loogo stickers.",
+    "price": "4,00",
+    "image": "/images/sticker-3pack.jpg"
+  },
+  {
+    "title": "Snopcart Logo Sticker Pack",
+    "id": "sticker_logo_pafdsdfck",
+    "description": "Get a pack of 3 Snipcart loogo stickers.",
+    "price": "4,00",
+    "image": "/images/sticker-3pack.jpg"
+  }
+]
